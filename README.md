@@ -4,7 +4,7 @@
  * @Autor: ZhuYichen
  * @Date: 2025-02-14 12:54:36
  * @LastEditors: ZhuYichen
- * @LastEditTime: 2025-02-21 14:48:03
+ * @LastEditTime: 2025-02-26 14:44:19
 -->
 ## Long-text Caption Generation for Surgical Image with A Concept Retrieval Augmented Large Multimodal Model
 
@@ -18,7 +18,7 @@ model effectively generates long-text captions for surgical images. Furthermore,
 Install the required packages using conda with the provided [environment.yaml](environment.yaml) file.
 
 ## Data
-Download the long-text caption dataset from [EndoVis2018LongCap](https://huggingface.co/datasets/Sn4kehead/EndoVis2018LongCap).
+Download the long-text caption dataset from [EndoVis2018LongCap](https://huggingface.co/datasets/liujiquan/EndoVis2018LongCap).
 Save the data in ./data/miccai_coco.
 
 ## Database
